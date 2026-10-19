@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "N1",
+      "name": "Aluva Manappuram Temple Area (Low Basin)",
+      "lat": 10.1085,
+      "lng": 76.3535,
+      "elev": 4.5,
+      "base_hazard": 0.85
+    },
+    {
+      "id": "N2",
+      "name": "Aluva Railway Station / Bus Stand",
+      "lat": 10.109,
+      "lng": 76.358,
+      "elev": 9.2,
+      "base_hazard": 0.65
+    },
+    {
+      "id": "N3",
+      "name": "NH 544 Aluva Bridge Junction",
+      "lat": 10.105,
+      "lng": 76.351,
+      "elev": 7.0,
+      "base_hazard": 0.8
+    },
+    {
+      "id": "N4",
+      "name": "Bank Junction / Subhash Park",
+      "lat": 10.107,
+      "lng": 76.345,
+      "elev": 11.5,
+      "base_hazard": 0.4
+    },
+    {
+      "id": "N5",
+      "name": "Aluva Bypass / Paravur Kavala",
+      "lat": 10.115,
+      "lng": 76.348,
+      "elev": 14.0,
+      "base_hazard": 0.3
+    },
+    {
+      "id": "N6",
+      "name": "UC College Junction (Elevated)",
+      "lat": 10.124,
+      "lng": 76.337,
+      "elev": 25.0,
+      "base_hazard": 0.05
+    },
+    {
+      "id": "N7",
+      "name": "Muttom Metro Station / Highway",
+      "lat": 10.078,
+      "lng": 76.338,
+      "elev": 13.0,
+      "base_hazard": 0.25
+    },
+    {
+      "id": "N8",
+      "name": "Companypady / Ambattukavu",
+      "lat": 10.068,
+      "lng": 76.331,
+      "elev": 16.0,
+      "base_hazard": 0.15
+    },
+    {
+      "id": "N9",
+      "name": "Kalamassery Premier Junction",
+      "lat": 10.054,
+      "lng": 76.324,
+      "elev": 29.0,
+      "base_hazard": 0.02
+    },
+    {
+      "id": "N10",
+      "name": "Eloor Ferry Road (Submerged Zone)",
+      "lat": 10.089,
+      "lng": 76.321,
+      "elev": 5.2,
+      "base_hazard": 0.9
+    },
+    {
+      "id": "N11",
+      "name": "Kuttamassery / Thottakkattukara",
+      "lat": 10.119,
+      "lng": 76.363,
+      "elev": 12.0,
+      "base_hazard": 0.35
+    },
+    {
+      "id": "N12",
+      "name": "Choornikkara Safe Bypass",
+      "lat": 10.092,
+      "lng": 76.356,
+      "elev": 18.0,
+      "base_hazard": 0.1
+    },
+    {
+      "id": "N13",
+      "name": "Seaport-Airport Link High Corridor",
+      "lat": 10.041,
+      "lng": 76.35,
+      "elev": 33.0,
+      "base_hazard": 0.01
+    },
+    {
+      "id": "N14",
+      "name": "Kakkanad Civil Station Ridge",
+      "lat": 10.014,
+      "lng": 76.356,
+      "elev": 39.0,
+      "base_hazard": 0.0
+    }
+  ],
+  "edges": [
+    {
+      "from_node": "N1",
+      "to_node": "N2",
+      "road_name": "Manappuram Elevated Evacuation Ramp",
+      "length_km": 0.9,
+      "speed_kmh": 35,
+      "hazard_factor": 0.15
+    },
+    {
+      "from_node": "N1",
+      "to_node": "N3",
+      "road_name": "Periyar Riverbank Submerged Causeway",
+      "length_km": 0.45,
+      "speed_kmh": 40,
+      "hazard_factor": 0.95
+    },
+    {
+      "from_node": "N2",
+      "to_node": "N4",
+      "road_name": "Railway Square Road",
+      "length_km": 1.45,
+      "speed_kmh": 35,
+      "hazard_factor": 0.45
+    },
+    {
+      "from_node": "N3",
+      "to_node": "N4",
+      "road_name": "Old Bridge Approach",
+      "length_km": 0.7,
+      "speed_kmh": 40,
+      "hazard_factor": 0.6
+    },
+    {
+      "from_node": "N4",
+      "to_node": "N5",
+      "road_name": "Paravur Road Bypass",
+      "length_km": 1.1,
+      "speed_kmh": 45,
+      "hazard_factor": 0.25
+    },
+    {
+      "from_node": "N5",
+      "to_node": "N6",
+      "road_name": "UC College Elevated Avenue",
+      "length_km": 1.6,
+      "speed_kmh": 50,
+      "hazard_factor": 0.05
+    },
+    {
+      "from_node": "N3",
+      "to_node": "N7",
+      "road_name": "NH 544 Highway Corridor",
+      "length_km": 3.4,
+      "speed_kmh": 55,
+      "hazard_factor": 0.5
+    },
+    {
+      "from_node": "N4",
+      "to_node": "N10",
+      "road_name": "Eloor Industrial Access",
+      "length_km": 2.9,
+      "speed_kmh": 30,
+      "hazard_factor": 0.9
+    },
+    {
+      "from_node": "N10",
+      "to_node": "N8",
+      "road_name": "Eloor-Ambattukavu Link",
+      "length_km": 2.5,
+      "speed_kmh": 35,
+      "hazard_factor": 0.75
+    },
+    {
+      "from_node": "N7",
+      "to_node": "N8",
+      "road_name": "Metro Viaduct Highway",
+      "length_km": 1.3,
+      "speed_kmh": 45,
+      "hazard_factor": 0.2
+    },
+    {
+      "from_node": "N8",
+      "to_node": "N9",
+      "road_name": "Premier Junction Access",
+      "length_km": 1.8,
+      "speed_kmh": 50,
+      "hazard_factor": 0.05
+    },
+    {
+      "from_node": "N2",
+      "to_node": "N11",
+      "road_name": "Kuttamassery Road",
+      "length_km": 1.35,
+      "speed_kmh": 40,
+      "hazard_factor": 0.25
+    },
+    {
+      "from_node": "N11",
+      "to_node": "N12",
+      "road_name": "East Choornikkara Safe Ridge",
+      "length_km": 2.4,
+      "speed_kmh": 45,
+      "hazard_factor": 0.1
+    },
+    {
+      "from_node": "N12",
+      "to_node": "N7",
+      "road_name": "Muttom East Link",
+      "length_km": 2.2,
+      "speed_kmh": 45,
+      "hazard_factor": 0.15
+    },
+    {
+      "from_node": "N9",
+      "to_node": "N13",
+      "road_name": "HMT - Seaport Expressway",
+      "length_km": 3.1,
+      "speed_kmh": 60,
+      "hazard_factor": 0.02
+    },
+    {
+      "from_node": "N13",
+      "to_node": "N14",
+      "road_name": "Kakkanad InfoPark Highway",
+      "length_km": 3.6,
+      "speed_kmh": 60,
+      "hazard_factor": 0.0
+    }
+  ]
+}

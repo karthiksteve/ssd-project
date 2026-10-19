@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7445,
+          26.1848
+        ]
+      },
+      "properties": {
+        "id": "as_inc_01",
+        "name": "Brahmaputra CWC Station #4",
+        "water_depth_cm": 155,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Brahmaputra CWC Station #4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7305,
+          26.1785
+        ]
+      },
+      "properties": {
+        "id": "as_inc_02",
+        "name": "Bharalu River Sluice Gate",
+        "water_depth_cm": 140,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Bharalu River Sluice Gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7415,
+          26.1825
+        ]
+      },
+      "properties": {
+        "id": "as_inc_03",
+        "name": "Fancy Bazar Municipal Inundation Post",
+        "water_depth_cm": 110,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Fancy Bazar Municipal Inundation Post"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.746,
+          26.186
+        ]
+      },
+      "properties": {
+        "id": "as_inc_04",
+        "name": "Uzanbazar Ferry Ghat Gauge",
+        "water_depth_cm": 135,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Uzanbazar Ferry Ghat Gauge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.729,
+          26.177
+        ]
+      },
+      "properties": {
+        "id": "as_inc_05",
+        "name": "Pandu Port Telemetry Node",
+        "water_depth_cm": 95,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Pandu Port Telemetry Node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.718,
+          26.172
+        ]
+      },
+      "properties": {
+        "id": "as_inc_06",
+        "name": "Kamakhya Foothill Gauge",
+        "water_depth_cm": 120,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Kamakhya Foothill Gauge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7195,
+          26.1735
+        ]
+      },
+      "properties": {
+        "id": "as_inc_07",
+        "name": "Railway Lowland Sensor #9",
+        "water_depth_cm": 105,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Railway Lowland Sensor #9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.716,
+          26.171
+        ]
+      },
+      "properties": {
+        "id": "as_inc_08",
+        "name": "Brahmaputra Embankment Monitor",
+        "water_depth_cm": 130,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Brahmaputra Embankment Monitor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.698,
+          26.168
+        ]
+      },
+      "properties": {
+        "id": "as_inc_09",
+        "name": "Maligaon Overpass Inflow Post",
+        "water_depth_cm": 85,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Maligaon Overpass Inflow Post"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.701,
+          26.1695
+        ]
+      },
+      "properties": {
+        "id": "as_inc_10",
+        "name": "Saraighat Approach Telemetry",
+        "water_depth_cm": 90,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Saraighat Approach Telemetry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.785,
+          26.145
+        ]
+      },
+      "properties": {
+        "id": "as_noise1",
+        "name": "Dispur Drain Overspill",
+        "water_depth_cm": 20,
+        "severity": "LOW",
+        "sos_calls": 0,
+        "source": "Dispur Drain Overspill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81,
+          26.128
+        ]
+      },
+      "properties": {
+        "id": "as_noise2",
+        "name": "Khanapara Puddle Sensor",
+        "water_depth_cm": 15,
+        "severity": "LOW",
+        "sos_calls": 0,
+        "source": "Khanapara Puddle Sensor"
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "nodes": [
+    {
+      "id": "AN1",
+      "name": "MG Road Riverside Ghat (Low Basin)",
+      "lat": 26.185,
+      "lng": 91.745,
+      "elev": 48.2,
+      "base_hazard": 0.92
+    },
+    {
+      "id": "AN2",
+      "name": "Fancy Bazar Commercial Center",
+      "lat": 26.182,
+      "lng": 91.742,
+      "elev": 49.5,
+      "base_hazard": 0.7
+    },
+    {
+      "id": "AN3",
+      "name": "Panbazar Overbridge Ridge",
+      "lat": 26.184,
+      "lng": 91.751,
+      "elev": 53.0,
+      "base_hazard": 0.4
+    },
+    {
+      "id": "AN4",
+      "name": "Guwahati Central Station / Paltan Bazar",
+      "lat": 26.176,
+      "lng": 91.753,
+      "elev": 54.5,
+      "base_hazard": 0.3
+    },
+    {
+      "id": "AN5",
+      "name": "GS Road High Flyover (Bhangagarh)",
+      "lat": 26.161,
+      "lng": 91.768,
+      "elev": 58.0,
+      "base_hazard": 0.15
+    },
+    {
+      "id": "AN6",
+      "name": "Ganeshguri Elevated Corridor",
+      "lat": 26.152,
+      "lng": 91.782,
+      "elev": 60.5,
+      "base_hazard": 0.08
+    },
+    {
+      "id": "AN7",
+      "name": "Dispur Capital Complex Ridge",
+      "lat": 26.142,
+      "lng": 91.791,
+      "elev": 61.0,
+      "base_hazard": 0.05
+    },
+    {
+      "id": "AN8",
+      "name": "Khanapara High Relief Hub",
+      "lat": 26.126,
+      "lng": 91.815,
+      "elev": 65.0,
+      "base_hazard": 0.0
+    },
+    {
+      "id": "AN9",
+      "name": "Bharalumukh Lowland Causeway (Submerged)",
+      "lat": 26.178,
+      "lng": 91.731,
+      "elev": 47.8,
+      "base_hazard": 0.96
+    },
+    {
+      "id": "AN10",
+      "name": "Maligaon High Transit Highway",
+      "lat": 26.158,
+      "lng": 91.705,
+      "elev": 53.0,
+      "base_hazard": 0.18
+    },
+    {
+      "id": "AN11",
+      "name": "Jalukbari Rotary High Viaduct",
+      "lat": 26.148,
+      "lng": 91.668,
+      "elev": 59.0,
+      "base_hazard": 0.02
+    }
+  ],
+  "edges": [
+    {
+      "from_node": "AN1",
+      "to_node": "AN9",
+      "road_name": "Brahmaputra Riverside Bund Road",
+      "length_km": 1.55,
+      "speed_kmh": 30,
+      "hazard_factor": 0.95
+    },
+    {
+      "from_node": "AN9",
+      "to_node": "AN10",
+      "road_name": "Pandu Lowland Reach Road",
+      "length_km": 2.9,
+      "speed_kmh": 35,
+      "hazard_factor": 0.88
+    },
+    {
+      "from_node": "AN1",
+      "to_node": "AN2",
+      "road_name": "MG Road Riverside Causeway",
+      "length_km": 0.5,
+      "speed_kmh": 35,
+      "hazard_factor": 0.85
+    },
+    {
+      "from_node": "AN1",
+      "to_node": "AN3",
+      "road_name": "Panbazar Approach Elevated Link",
+      "length_km": 0.85,
+      "speed_kmh": 40,
+      "hazard_factor": 0.35
+    },
+    {
+      "from_node": "AN2",
+      "to_node": "AN4",
+      "road_name": "Fancy-Paltan Central Road",
+      "length_km": 1.4,
+      "speed_kmh": 40,
+      "hazard_factor": 0.4
+    },
+    {
+      "from_node": "AN3",
+      "to_node": "AN4",
+      "road_name": "Panbazar High Overbridge",
+      "length_km": 0.9,
+      "speed_kmh": 45,
+      "hazard_factor": 0.15
+    },
+    {
+      "from_node": "AN4",
+      "to_node": "AN5",
+      "road_name": "GS Road High Corridor North",
+      "length_km": 2.2,
+      "speed_kmh": 50,
+      "hazard_factor": 0.15
+    },
+    {
+      "from_node": "AN5",
+      "to_node": "AN6",
+      "road_name": "Bhangagarh-Ganeshguri Flyover",
+      "length_km": 1.8,
+      "speed_kmh": 55,
+      "hazard_factor": 0.08
+    },
+    {
+      "from_node": "AN6",
+      "to_node": "AN7",
+      "road_name": "GS Road Dispur Expressway",
+      "length_km": 1.5,
+      "speed_kmh": 55,
+      "hazard_factor": 0.05
+    },
+    {
+      "from_node": "AN7",
+      "to_node": "AN8",
+      "road_name": "Dispur-Khanapara Ridge Highway",
+      "length_km": 2.8,
+      "speed_kmh": 60,
+      "hazard_factor": 0.01
+    },
+    {
+      "from_node": "AN4",
+      "to_node": "AN10",
+      "road_name": "AT Road Maligaon High Corridor",
+      "length_km": 4.9,
+      "speed_kmh": 50,
+      "hazard_factor": 0.15
+    },
+    {
+      "from_node": "AN10",
+      "to_node": "AN11",
+      "road_name": "NH 27 Jalukbari Flyover Expressway",
+      "length_km": 3.8,
+      "speed_kmh": 60,
+      "hazard_factor": 0.02
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.353,
+          10.1082
+        ]
+      },
+      "properties": {
+        "id": "inc_01",
+        "name": "River Gauge S1 - Manappuram",
+        "water_depth_cm": 140,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "River Gauge S1 - Manappuram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3512,
+          10.1075
+        ]
+      },
+      "properties": {
+        "id": "inc_02",
+        "name": "Highway Underpass CWC",
+        "water_depth_cm": 115,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Highway Underpass CWC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3498,
+          10.106
+        ]
+      },
+      "properties": {
+        "id": "inc_03",
+        "name": "Citizen SOS Call #104",
+        "water_depth_cm": 95,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Citizen SOS Call #104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3545,
+          10.1095
+        ]
+      },
+      "properties": {
+        "id": "inc_04",
+        "name": "Aluva Ghat Sensor",
+        "water_depth_cm": 125,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Aluva Ghat Sensor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.352,
+          10.1042
+        ]
+      },
+      "properties": {
+        "id": "inc_05",
+        "name": "Police Control Van #3",
+        "water_depth_cm": 85,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Police Control Van #3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3215,
+          10.0895
+        ]
+      },
+      "properties": {
+        "id": "inc_06",
+        "name": "Eloor Ferry Flood Gauge",
+        "water_depth_cm": 130,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Eloor Ferry Flood Gauge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.323,
+          10.091
+        ]
+      },
+      "properties": {
+        "id": "inc_07",
+        "name": "Industrial Estate Sensor #7",
+        "water_depth_cm": 105,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Industrial Estate Sensor #7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.32,
+          10.088
+        ]
+      },
+      "properties": {
+        "id": "inc_08",
+        "name": "Eloor Lowland Monitoring",
+        "water_depth_cm": 145,
+        "severity": "CRITICAL",
+        "sos_calls": 0,
+        "source": "Eloor Lowland Monitoring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.292,
+          10.0815
+        ]
+      },
+      "properties": {
+        "id": "inc_09",
+        "name": "Varapuzha Bridge Post",
+        "water_depth_cm": 90,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "Varapuzha Bridge Post"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.295,
+          10.083
+        ]
+      },
+      "properties": {
+        "id": "inc_10",
+        "name": "Panchayat Distress Alert",
+        "water_depth_cm": 80,
+        "severity": "MODERATE",
+        "sos_calls": 0,
+        "source": "Panchayat Distress Alert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.289,
+          10.0805
+        ]
+      },
+      "properties": {
+        "id": "inc_11",
+        "name": "NDRF Survey Boat #2",
+        "water_depth_cm": 110,
+        "severity": "HIGH",
+        "sos_calls": 0,
+        "source": "NDRF Survey Boat #2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.368,
+          10.135
+        ]
+      },
+      "properties": {
+        "id": "inc_noise1",
+        "name": "Minor Waterlogging Report",
+        "water_depth_cm": 25,
+        "severity": "LOW",
+        "sos_calls": 0,
+        "source": "Minor Waterlogging Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.335,
+          10.035
+        ]
+      },
+      "properties": {
+        "id": "inc_noise2",
+        "name": "Drain Overflow Call",
+        "water_depth_cm": 20,
+        "severity": "LOW",
+        "sos_calls": 0,
+        "source": "Drain Overflow Call"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+id,name,lat,lng,water_depth_cm,severity,sos_calls,source
+inc_01,River Gauge S1 - Manappuram,10.1082,76.353,140,CRITICAL,0,River Gauge S1 - Manappuram
+inc_02,Highway Underpass CWC,10.1075,76.3512,115,CRITICAL,0,Highway Underpass CWC
+inc_03,Citizen SOS Call #104,10.106,76.3498,95,HIGH,0,Citizen SOS Call #104
+inc_04,Aluva Ghat Sensor,10.1095,76.3545,125,CRITICAL,0,Aluva Ghat Sensor
+inc_05,Police Control Van #3,10.1042,76.352,85,HIGH,0,Police Control Van #3
+inc_06,Eloor Ferry Flood Gauge,10.0895,76.3215,130,CRITICAL,0,Eloor Ferry Flood Gauge
+inc_07,Industrial Estate Sensor #7,10.091,76.323,105,HIGH,0,Industrial Estate Sensor #7
+inc_08,Eloor Lowland Monitoring,10.088,76.32,145,CRITICAL,0,Eloor Lowland Monitoring
+inc_09,Varapuzha Bridge Post,10.0815,76.292,90,HIGH,0,Varapuzha Bridge Post
+inc_10,Panchayat Distress Alert,10.083,76.295,80,MODERATE,0,Panchayat Distress Alert
+inc_11,NDRF Survey Boat #2,10.0805,76.289,110,HIGH,0,NDRF Survey Boat #2
+inc_noise1,Minor Waterlogging Report,10.135,76.368,25,LOW,0,Minor Waterlogging Report
+inc_noise2,Drain Overflow Call,10.035,76.335,20,LOW,0,Drain Overflow Call

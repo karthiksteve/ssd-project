@@ -1,0 +1,13 @@
+id,name,lat,lng,water_depth_cm,severity,sos_calls,source
+as_inc_01,Brahmaputra CWC Station #4,26.1848,91.7445,155,CRITICAL,0,Brahmaputra CWC Station #4
+as_inc_02,Bharalu River Sluice Gate,26.1785,91.7305,140,CRITICAL,0,Bharalu River Sluice Gate
+as_inc_03,Fancy Bazar Municipal Inundation Post,26.1825,91.7415,110,CRITICAL,0,Fancy Bazar Municipal Inundation Post
+as_inc_04,Uzanbazar Ferry Ghat Gauge,26.186,91.746,135,CRITICAL,0,Uzanbazar Ferry Ghat Gauge
+as_inc_05,Pandu Port Telemetry Node,26.177,91.729,95,HIGH,0,Pandu Port Telemetry Node
+as_inc_06,Kamakhya Foothill Gauge,26.172,91.718,120,HIGH,0,Kamakhya Foothill Gauge
+as_inc_07,Railway Lowland Sensor #9,26.1735,91.7195,105,HIGH,0,Railway Lowland Sensor #9
+as_inc_08,Brahmaputra Embankment Monitor,26.171,91.716,130,CRITICAL,0,Brahmaputra Embankment Monitor
+as_inc_09,Maligaon Overpass Inflow Post,26.168,91.698,85,HIGH,0,Maligaon Overpass Inflow Post
+as_inc_10,Saraighat Approach Telemetry,26.1695,91.701,90,HIGH,0,Saraighat Approach Telemetry
+as_noise1,Dispur Drain Overspill,26.145,91.785,20,LOW,0,Dispur Drain Overspill
+as_noise2,Khanapara Puddle Sensor,26.128,91.81,15,LOW,0,Khanapara Puddle Sensor

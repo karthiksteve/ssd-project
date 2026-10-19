@@ -1,0 +1,9 @@
+id,name,region_id,lat,lng,elevation_m,total_capacity,current_occupancy,available_beds,status,food_packs_available,medical_staff_present,generator_active,contact_phone
+shelter_kerala_1,UC College High Ground Relief Center,kerala_ernakulam,10.1255,76.336,26.5,650,320,330,OPEN,1200,True,True,+91-484-260-3101
+shelter_kerala_2,Kalamassery Community Operations Shelter,kerala_ernakulam,10.053,76.321,31.0,800,410,390,OPEN,1800,True,True,+91-484-254-8890
+shelter_kerala_3,"Rajagiri Disaster Response Camp, Kakkanad",kerala_ernakulam,10.012,76.358,38.0,950,210,740,OPEN,2400,True,True,+91-484-291-1122
+shelter_kerala_4,Angamaly St. Joseph Evacuation Hub,kerala_ernakulam,10.188,76.386,34.0,500,465,35,NEAR_CAPACITY,400,True,True,+91-484-245-0909
+shelter_assam_1,"Gauhati University High Ridge Shelter, Jalukbari",assam_guwahati,26.155,91.662,54.0,900,380,520,OPEN,1600,True,True,+91-361-257-0415
+shelter_assam_2,Khanapara Administrative High Relief Center,assam_guwahati,26.126,91.815,48.5,1050,410,640,OPEN,2200,True,True,+91-361-223-7090
+shelter_assam_3,"Assam Engineering College Camp, Jalukbari",assam_guwahati,26.142,91.664,52.0,750,290,460,OPEN,1400,True,True,+91-361-257-0121
+shelter_assam_4,Dispur Capital Complex Emergency Center,assam_guwahati,26.142,91.791,61.0,800,760,40,NEAR_CAPACITY,600,True,True,+91-361-226-0222
