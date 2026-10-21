@@ -1,10 +1,7 @@
 # RescuePath AI: Intelligent Disaster Response & Evacuation Platform
 ### Sequential and Spatial Data Mining (CSE3068) — Academic Project
 
-**Submitted By:** Karthikeyan A (23MIA1123)  
-**Course:** CSE3068 Sequential and Spatial Data Mining (SSDM)
 
----
 
 ## 1. Executive Summary
 
